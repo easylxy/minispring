@@ -1,0 +1,17 @@
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/aspect/ProxyFactory.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/context/ApplicationContext.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/context/AnnotationConfigApplicationContext.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/factory/BeanDefinition.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/factory/DefaultListableBeanFactory.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/annotation/Controller.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/controller/HelloController.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/annotation/Service.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/MiniSpringApplication.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/annotation/Component.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/annotation/Value.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/exception/BeansException.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/annotation/Autowired.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/factory/BeanFactory.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/factory/ListableBeanFactory.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/context/AbstractApplicationContext.java
+/Users/liaoxy/Desktop/claude/mini-spring-framework/src/main/java/com/mini/service/HelloService.java
